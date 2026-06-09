@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/")
 public class MenuController {
-
+//test
     /**
      * メニュー画面を表示する
      */
